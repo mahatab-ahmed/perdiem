@@ -1,0 +1,13 @@
+Hi, my name is Mahatab Ahmed, and I have over 3 years of experience in SAP Data Migration, currently working as a Data Migration Engineer. I have been part of two end-to-end SAP S/4HANA implementation projects, where I handled data migration activities from the foundation phase through blueprint, build, testing cycles, and hypercare support.
+
+During the foundation phase, the project scope and in-scope objects were finalized, and in the blueprint phase we conducted workshops with business teams to gather requirements and prepare field mapping documents (FMD/FST). Based on the mapping, I developed ETL jobs using SAP BODS to extract data from SAP ECC, SQL databases, and flat files, perform transformations, validations, and enrichment, and generate preload datasets for business validation.
+
+I have hands-on experience working with objects from multiple modules. Some of the key objects I worked on include Work Center, Functional Location, Customer Intercompany, Pricing Conditions, and transactional objects like Open Accounts Receivable (Open AR). I was responsible for building BODS jobs, performing data transformations using Query, Merge, Case, and Lookup transforms, applying validation rules, and ensuring data quality before loading.
+
+For data loading into SAP S/4HANA, we primarily used the Migration Cockpit with both file-based and staging table approaches. In the staging approach, we connected BODS with HANA database, pushed data into staging tables, executed simulation runs, resolved errors, and then performed the final data migration.
+
+After loading, I validated the data using SAP GUI through display T-codes and SE16N table checks, and generated post-load reconciliation reports using BODS to compare preload and post-load data. We tracked issues through Jira ticketing, and during the hypercare phase we also used ServiceNow for support tickets.
+
+Additionally, I have exposure to LSMW recordings for specific data loads, SQL for data validation, and basic knowledge of BAPI/IDoc concepts in SAP data migration.
+
+Overall, my experience involves end-to-end data migration including mapping, ETL development, data validation, migration execution, reconciliation, and post-go-live support in SAP S/4HANA projects.
